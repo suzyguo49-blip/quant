@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# 本地数据（体积大，仅 Mac 保留）
+stock_data.db
+stock_data.db-*
+*.db-journal
+
+# 密钥 / 个人推送（仅本机）
+docs/trading-system/notify.yaml
+docs/trading-system/tushare.yaml
+
+# 日志
+logs/
+*.log
+
+# macOS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Cursor 本地状态（可选）
+.cursor/projects/

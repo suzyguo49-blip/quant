@@ -1,0 +1,17 @@
+---
+description: 结合操盘笔记辅助 quant 短线系统（复盘、扫描、入库）
+globs: docs/trading-system/**/*
+alwaysApply: false
+---
+
+# 操盘笔记 + 交易系统
+
+处理 `docs/trading-system/` 下内容时：
+
+1. 若存在 `knowledge/操盘笔记.md` 且原文非空，与 `playbooks/theme.md`、`playbooks/notes.md` 一并参考。
+2. 用户说「入库」「操盘笔记」时，走 `short-term-trading-evolution` 知识入库流程：
+   - 提炼规则 → `playbooks/notes.md`（id 前缀 `N-`）
+   - 更新 `knowledge/操盘笔记-映射表.md`、`changelog.md`
+   - 冲突时按映射表优先级，**先出草案，等用户确认后再改文件**
+3. 复盘时：笔记中的纪律条款用 `violation:N-xxx` / `good:N-xxx` 标注。
+4. 扫描/回测讨论应对齐 `monthly_theme_dragon.py` 与 `ThemeConfig`，笔记要求改参数须在 changelog 记录。

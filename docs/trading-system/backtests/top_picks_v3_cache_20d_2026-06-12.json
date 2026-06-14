@@ -1,0 +1,562 @@
+{
+  "2026-05-15": {
+    "picks": [
+      {
+        "symbol": "sz.002747",
+        "name": "埃斯顿",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002156",
+        "name": "通富微电",
+        "composite": 76.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      },
+      {
+        "symbol": "sz.300995",
+        "name": "奇德新材",
+        "composite": 71.8,
+        "signals": [
+          "箱体突破"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688146"
+  },
+  "2026-05-18": {
+    "picks": [
+      {
+        "symbol": "sh.688350",
+        "name": "富淼科技",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.300042",
+        "name": "朗科科技",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002196",
+        "name": "方正电机",
+        "composite": 78.8,
+        "signals": [
+          "箱体突破"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-19": {
+    "picks": [
+      {
+        "symbol": "sh.600753",
+        "name": "*ST海钦",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.600626",
+        "name": "申达股份",
+        "composite": 78.8,
+        "signals": [
+          "箱体突破"
+        ]
+      },
+      {
+        "symbol": "sz.002887",
+        "name": "绿茵生态",
+        "composite": 75.9,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-20": {
+    "picks": [
+      {
+        "symbol": "sz.300225",
+        "name": "*ST金泰",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.001313",
+        "name": "粤海饲料",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.003022",
+        "name": "联泓新科",
+        "composite": 82.4,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-21": {
+    "picks": [
+      {
+        "symbol": "sh.601777",
+        "name": "千里科技",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.601177",
+        "name": "杭齿前进",
+        "composite": 71.3,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.603009",
+        "name": "北特科技",
+        "composite": 71.2,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-22": {
+    "picks": [
+      {
+        "symbol": "sz.300199",
+        "name": "翰宇药业",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.688025",
+        "name": "杰普特",
+        "composite": 81.5,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.603223",
+        "name": "恒通股份",
+        "composite": 80.0,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.603115"
+  },
+  "2026-05-25": {
+    "picks": [
+      {
+        "symbol": "sz.000519",
+        "name": "中兵红箭",
+        "composite": 78.8,
+        "signals": [
+          "箱体突破"
+        ]
+      },
+      {
+        "symbol": "sz.300047",
+        "name": "天源迪科",
+        "composite": 73.7,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002674",
+        "name": "兴业科技",
+        "composite": 71.3,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688610"
+  },
+  "2026-05-26": {
+    "picks": [
+      {
+        "symbol": "sz.003013",
+        "name": "地铁设计",
+        "composite": 71.1,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.000700",
+        "name": "模塑科技",
+        "composite": 70.9,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002241",
+        "name": "歌尔股份",
+        "composite": 69.5,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688347"
+  },
+  "2026-05-27": {
+    "picks": [
+      {
+        "symbol": "sh.688786",
+        "name": "悦安新材",
+        "composite": 70.8,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002405",
+        "name": "四维图新",
+        "composite": 70.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      },
+      {
+        "symbol": "sz.301028",
+        "name": "鼎熔岩",
+        "composite": 69.5,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.003036"
+  },
+  "2026-05-28": {
+    "picks": [
+      {
+        "symbol": "sz.301099",
+        "name": "雅创电子",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.301526",
+        "name": "国际复材",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.300657",
+        "name": "弘信电子",
+        "composite": 84.2,
+        "signals": [
+          "Dragon·可买"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.300975"
+  },
+  "2026-05-29": {
+    "picks": [
+      {
+        "symbol": "sh.601066",
+        "name": "中信建投",
+        "composite": 80.2,
+        "signals": [
+          "MA5反包",
+          "箱体突破"
+        ]
+      },
+      {
+        "symbol": "sh.603099",
+        "name": "长白山",
+        "composite": 70.8,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.300476",
+        "name": "胜宏科技",
+        "composite": 70.8,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.600726"
+  },
+  "2026-06-01": {
+    "picks": [
+      {
+        "symbol": "sh.600596",
+        "name": "新安股份",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.600865",
+        "name": "百大集团",
+        "composite": 78.8,
+        "signals": [
+          "箱体突破"
+        ]
+      },
+      {
+        "symbol": "sz.000668",
+        "name": "荣丰控股",
+        "composite": 73.6,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.000539"
+  },
+  "2026-06-02": {
+    "picks": [
+      {
+        "symbol": "sz.301366",
+        "name": "一博科技",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.603997",
+        "name": "继峰股份",
+        "composite": 72.8,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.600459",
+        "name": "贵研铂业",
+        "composite": 70.8,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.300975"
+  },
+  "2026-06-03": {
+    "picks": [
+      {
+        "symbol": "sz.301021",
+        "name": "英诺激光",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.600522",
+        "name": "中天科技",
+        "composite": 78.4,
+        "signals": [
+          "Dragon·可买"
+        ]
+      },
+      {
+        "symbol": "sz.000600",
+        "name": "建投能源",
+        "composite": 74.2,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.301439"
+  },
+  "2026-06-04": {
+    "picks": [
+      {
+        "symbol": "sz.300037",
+        "name": "新宙邦",
+        "composite": 81.9,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.603588",
+        "name": "高能环境",
+        "composite": 78.8,
+        "signals": [
+          "箱体突破"
+        ]
+      },
+      {
+        "symbol": "sz.002281",
+        "name": "光迅科技",
+        "composite": 71.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.600487"
+  },
+  "2026-06-05": {
+    "picks": [
+      {
+        "symbol": "sh.605566",
+        "name": "福莱蒽特",
+        "composite": 83.0,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.600906",
+        "name": "财达证券",
+        "composite": 79.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.603439",
+        "name": "三力制药",
+        "composite": 72.4,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.301458"
+  },
+  "2026-06-08": {
+    "picks": [
+      {
+        "symbol": "sh.688519",
+        "name": "南亚新材",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sh.688456",
+        "name": "有研粉材",
+        "composite": 84.4,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.300283",
+        "name": "温州宏丰",
+        "composite": 81.9,
+        "signals": [
+          "科技价值"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688017"
+  },
+  "2026-06-09": {
+    "picks": [
+      {
+        "symbol": "sh.600396",
+        "name": "华电辽能",
+        "composite": 84.6,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.002125",
+        "name": "湘潭电化",
+        "composite": 79.8,
+        "signals": [
+          "MA5反包"
+        ]
+      },
+      {
+        "symbol": "sz.300666",
+        "name": "江丰电子",
+        "composite": 75.5,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688668"
+  },
+  "2026-06-10": {
+    "picks": [
+      {
+        "symbol": "sh.600160",
+        "name": "巨化股份",
+        "composite": 75.0,
+        "signals": [
+          "MA5反包"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688146"
+  },
+  "2026-06-11": {
+    "picks": [],
+    "empty_reason": "无 Dragon 主线（T-004）→ 不出 Top 3",
+    "mom_leader": "sh.688146"
+  }
+}

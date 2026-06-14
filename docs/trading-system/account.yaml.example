@@ -1,0 +1,17 @@
+# 账户快照（可复制为 account.yaml）
+# 你也可每日发券商截图给 Cursor，让 AI 更新本文件后再跑日报。
+
+updated: "2026-05-17"  # 数据截至日期
+total_capital: 400000  # 总资产（元）
+cash: 400000           # 可用现金
+daily_pnl_pct: 0.0     # 当日盈亏占总资产 %（触发 C-003 用，≥3 则停开仓）
+pause_new_orders: false  # true = 人工暂停新开仓
+
+positions: []
+# 示例:
+# positions:
+#   - symbol: sh.600900
+#     name: 长江电力
+#     shares: 7000
+#     cost: 27.00
+#     entry_date: "2026-05-14"  # 可选，用于日报 T-005 持有天数

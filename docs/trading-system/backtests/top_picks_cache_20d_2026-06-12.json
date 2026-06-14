@@ -1,0 +1,542 @@
+{
+  "2026-05-15": [
+    {
+      "symbol": "sz.001259",
+      "name": "利仁科技",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2"
+      ]
+    },
+    {
+      "symbol": "sz.002918",
+      "name": "蒙娜丽莎",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3"
+      ]
+    },
+    {
+      "symbol": "sz.002747",
+      "name": "埃斯顿",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    }
+  ],
+  "2026-05-18": [
+    {
+      "symbol": "sz.001259",
+      "name": "利仁科技",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.002196",
+      "name": "方正电机",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.688350",
+      "name": "富淼科技",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    }
+  ],
+  "2026-05-19": [
+    {
+      "symbol": "sz.001259",
+      "name": "利仁科技",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1"
+      ]
+    },
+    {
+      "symbol": "sh.600626",
+      "name": "申达股份",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.600903",
+      "name": "贵州燃气",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3"
+      ]
+    }
+  ],
+  "2026-05-20": [
+    {
+      "symbol": "sz.001259",
+      "name": "利仁科技",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1"
+      ]
+    },
+    {
+      "symbol": "sz.002077",
+      "name": "大港股份",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.688728",
+      "name": "格科微",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    }
+  ],
+  "2026-05-21": [
+    {
+      "symbol": "sz.001259",
+      "name": "利仁科技",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.601777",
+      "name": "千里科技",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sh.688610",
+      "name": "埃科光电",
+      "composite": 78.7,
+      "signals": [
+        "Momentum#4",
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-05-22": [
+    {
+      "symbol": "sz.300199",
+      "name": "翰宇药业",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sh.688610",
+      "name": "埃科光电",
+      "composite": 81.4,
+      "signals": [
+        "Momentum#2"
+      ]
+    },
+    {
+      "symbol": "sh.688025",
+      "name": "杰普特",
+      "composite": 78.8,
+      "signals": [
+        "MA5反包"
+      ]
+    }
+  ],
+  "2026-05-25": [
+    {
+      "symbol": "sh.688347",
+      "name": "华虹公司",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2"
+      ]
+    },
+    {
+      "symbol": "sz.000519",
+      "name": "中兵红箭",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.688001",
+      "name": "华兴源创",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3"
+      ]
+    }
+  ],
+  "2026-05-26": [
+    {
+      "symbol": "sh.688347",
+      "name": "华虹公司",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.603986",
+      "name": "兆易创新",
+      "composite": 75.6,
+      "signals": [
+        "相对抗跌",
+        "Dragon观察"
+      ]
+    },
+    {
+      "symbol": "sh.688001",
+      "name": "华兴源创",
+      "composite": 75.6,
+      "signals": [
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-05-27": [
+    {
+      "symbol": "sz.301377",
+      "name": "鼎泰高科",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.300626",
+      "name": "华瑞股份",
+      "composite": 81.5,
+      "signals": [
+        "Momentum#4",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.603663",
+      "name": "三祥新材",
+      "composite": 80.0,
+      "signals": [
+        "Momentum#2",
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-05-28": [
+    {
+      "symbol": "sz.300975",
+      "name": "商络电子",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1"
+      ]
+    },
+    {
+      "symbol": "sz.301308",
+      "name": "江波龙",
+      "composite": 84.6,
+      "signals": [
+        "Dragon支线"
+      ]
+    },
+    {
+      "symbol": "sz.300657",
+      "name": "弘信电子",
+      "composite": 84.2,
+      "signals": [
+        "Dragon·可买"
+      ]
+    }
+  ],
+  "2026-05-29": [
+    {
+      "symbol": "sh.600726",
+      "name": "华电能源",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1"
+      ]
+    },
+    {
+      "symbol": "sz.300975",
+      "name": "商络电子",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.002552",
+      "name": "宝鼎科技",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3",
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-06-01": [
+    {
+      "symbol": "sz.000539",
+      "name": "粤电力Ａ",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.300975",
+      "name": "商络电子",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.600865",
+      "name": "百大集团",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    }
+  ],
+  "2026-06-02": [
+    {
+      "symbol": "sz.300975",
+      "name": "商络电子",
+      "composite": 85.5,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.301366",
+      "name": "一博科技",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sz.000539",
+      "name": "粤电力Ａ",
+      "composite": 81.5,
+      "signals": [
+        "Momentum#4",
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-06-03": [
+    {
+      "symbol": "sz.301021",
+      "name": "英诺激光",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sh.600522",
+      "name": "中天科技",
+      "composite": 78.4,
+      "signals": [
+        "Dragon·可买"
+      ]
+    },
+    {
+      "symbol": "sz.300975",
+      "name": "商络电子",
+      "composite": 75.6,
+      "signals": [
+        "相对抗跌"
+      ]
+    }
+  ],
+  "2026-06-04": [
+    {
+      "symbol": "sh.603588",
+      "name": "高能环境",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.600487",
+      "name": "亨通光电",
+      "composite": 81.6,
+      "signals": [
+        "Momentum#1",
+        "相对抗跌",
+        "Dragon观察"
+      ]
+    },
+    {
+      "symbol": "sz.300486",
+      "name": "东杰智能",
+      "composite": 80.9,
+      "signals": [
+        "Momentum#3"
+      ]
+    }
+  ],
+  "2026-06-05": [
+    {
+      "symbol": "sh.603045",
+      "name": "福达合金",
+      "composite": 82.8,
+      "signals": [
+        "Momentum#3"
+      ]
+    },
+    {
+      "symbol": "sh.605566",
+      "name": "福莱蒽特",
+      "composite": 80.3,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sh.600522",
+      "name": "中天科技",
+      "composite": 78.4,
+      "signals": [
+        "Dragon·可买"
+      ]
+    }
+  ],
+  "2026-06-08": [
+    {
+      "symbol": "sh.688519",
+      "name": "南亚新材",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sh.688456",
+      "name": "有研粉材",
+      "composite": 81.7,
+      "signals": [
+        "MA5反包",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.688808",
+      "name": "联讯仪器",
+      "composite": 81.5,
+      "signals": [
+        "Momentum#4"
+      ]
+    }
+  ],
+  "2026-06-09": [
+    {
+      "symbol": "sh.600396",
+      "name": "华电辽能",
+      "composite": 81.9,
+      "signals": [
+        "MA5反包"
+      ]
+    },
+    {
+      "symbol": "sz.002747",
+      "name": "埃斯顿",
+      "composite": 81.5,
+      "signals": [
+        "Momentum#4",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.002125",
+      "name": "湘潭电化",
+      "composite": 77.1,
+      "signals": [
+        "MA5反包"
+      ]
+    }
+  ],
+  "2026-06-10": [
+    {
+      "symbol": "sz.002636",
+      "name": "金安国纪",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sh.603588",
+      "name": "高能环境",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sh.603929",
+      "name": "亚翔集成",
+      "composite": 78.0,
+      "signals": [
+        "Momentum#3"
+      ]
+    }
+  ],
+  "2026-06-11": [
+    {
+      "symbol": "sz.002636",
+      "name": "金安国纪",
+      "composite": 84.2,
+      "signals": [
+        "Momentum#2",
+        "相对抗跌"
+      ]
+    },
+    {
+      "symbol": "sz.002378",
+      "name": "章源钨业",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    },
+    {
+      "symbol": "sz.300927",
+      "name": "江天化学",
+      "composite": 83.7,
+      "signals": [
+        "箱体突破"
+      ]
+    }
+  ]
+}

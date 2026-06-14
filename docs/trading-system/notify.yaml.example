@@ -1,0 +1,15 @@
+# 日报推送配置 — 复制为 notify.yaml 并填写（notify.yaml 勿提交 git）
+enabled: true
+
+# 飞书群机器人 Webhook（群设置 → 群机器人 → 自定义机器人）
+feishu_webhook: "https://open.feishu.cn/open-apis/bot/v2/hook/xxxxxxxx"
+
+# 个人微信：PushPlus（https://www.pushplus.plus 注册 → 令牌/token）
+pushplus_token: "your_pushplus_token"
+# pushplus_topic: ""   # 可选，群组编码
+
+# 备选：Server酱（https://sct.ftqq.com ）— 与 PushPlus 二选一或同时填
+# serverchan_sendkey: "your_sendkey"
+
+# 单条消息最大字符（飞书/PushPlus 有上限）
+max_content_chars: 20000

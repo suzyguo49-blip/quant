@@ -1,0 +1,226 @@
+{
+  "2026-05-15": {
+    "picks": [
+      {
+        "symbol": "sz.002156",
+        "name": "通富微电",
+        "composite": 76.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688146"
+  },
+  "2026-05-18": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-19": {
+    "picks": [
+      {
+        "symbol": "sz.002249",
+        "name": "大洋电机",
+        "composite": 67.1,
+        "signals": [
+          "科技价值"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-20": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-21": {
+    "picks": [
+      {
+        "symbol": "sz.002050",
+        "name": "三花智控",
+        "composite": 65.7,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.001259"
+  },
+  "2026-05-22": {
+    "picks": [
+      {
+        "symbol": "sh.600577",
+        "name": "精达股份",
+        "composite": 67.5,
+        "signals": [
+          "科技价值"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.603115"
+  },
+  "2026-05-25": {
+    "picks": [
+      {
+        "symbol": "sz.300241",
+        "name": "瑞丰光电",
+        "composite": 67.8,
+        "signals": [
+          "科技价值"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688610"
+  },
+  "2026-05-26": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sh.688347"
+  },
+  "2026-05-27": {
+    "picks": [
+      {
+        "symbol": "sz.002405",
+        "name": "四维图新",
+        "composite": 70.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.003036"
+  },
+  "2026-05-28": {
+    "picks": [
+      {
+        "symbol": "sz.300657",
+        "name": "弘信电子",
+        "composite": 84.2,
+        "signals": [
+          "Dragon·可买"
+        ]
+      },
+      {
+        "symbol": "sz.300444",
+        "name": "双杰电气",
+        "composite": 81.9,
+        "signals": [
+          "科技价值"
+        ]
+      },
+      {
+        "symbol": "sz.301308",
+        "name": "江波龙",
+        "composite": 81.0,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.300975"
+  },
+  "2026-05-29": {
+    "picks": [
+      {
+        "symbol": "sz.300476",
+        "name": "胜宏科技",
+        "composite": 70.8,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.600726"
+  },
+  "2026-06-01": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sz.000539"
+  },
+  "2026-06-02": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sz.300975"
+  },
+  "2026-06-03": {
+    "picks": [
+      {
+        "symbol": "sh.600522",
+        "name": "中天科技",
+        "composite": 78.4,
+        "signals": [
+          "Dragon·可买"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sz.301439"
+  },
+  "2026-06-04": {
+    "picks": [
+      {
+        "symbol": "sz.002281",
+        "name": "光迅科技",
+        "composite": 71.3,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.600487"
+  },
+  "2026-06-05": {
+    "picks": [],
+    "empty_reason": "过滤后无候选（冷却/动量连霸/追高分）",
+    "mom_leader": "sz.301458"
+  },
+  "2026-06-08": {
+    "picks": [
+      {
+        "symbol": "sz.300283",
+        "name": "温州宏丰",
+        "composite": 81.9,
+        "signals": [
+          "科技价值"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688017"
+  },
+  "2026-06-09": {
+    "picks": [
+      {
+        "symbol": "sh.603728",
+        "name": "鸣志电器",
+        "composite": 72.1,
+        "signals": [
+          "Dragon支线"
+        ]
+      }
+    ],
+    "empty_reason": "",
+    "mom_leader": "sh.688668"
+  },
+  "2026-06-10": {
+    "picks": [],
+    "empty_reason": "可买池为空（无 Dragon/反包/科技/支线/箱体可买）",
+    "mom_leader": "sh.688146"
+  },
+  "2026-06-11": {
+    "picks": [],
+    "empty_reason": "无 Dragon 主线（T-004）→ 不出 Top 3",
+    "mom_leader": "sh.688146"
+  }
+}
