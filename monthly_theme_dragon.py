@@ -190,6 +190,8 @@ class DataStore:
                     conn,
                     params=(start_date, end_date),
                 )
+        if daily.empty:
+            return daily, pd.DataFrame(columns=["symbol", "industry"])
         daily["trade_date"] = pd.to_datetime(daily["trade_date"])
         daily = daily[daily["symbol"].map(is_a_share)]
         daily = daily[daily["isST"].fillna(0).astype(int) == 0]

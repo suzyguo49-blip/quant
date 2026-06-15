@@ -1,8 +1,8 @@
 # 账户快照 — 券商截图更新；发 Cursor 可说「请更新 account.yaml」
-updated: "2026-06-02"
-total_capital: 520263.84
-cash: 225868.84
-daily_pnl_pct: 2.13
+updated: "2026-06-12"
+total_capital: 501282.74
+cash: 195761.54
+daily_pnl_pct: 0.00
 pause_new_orders: false
 
 strategy_max_positions: 4
@@ -19,42 +19,31 @@ long_term_symbols:
 
 notes: |
   恒生科技 ETF 为长线配置；战术资金在扣除 5 万底仓后对龙头策略开仓。
-  2026-06-02 持仓：工业富联/长飞光纤/华天科技/华勤技术/歌尔为策略仓；已清仓华电国际；已减风华/兆威机电。
+  2026-06-12 截图持仓：恒生科技 ETF 为长线；工业富联、火炬电子、埃斯顿为策略仓。
+  持仓盈亏约 -38,984.05 元；当日盈亏 0.00%。
 
 positions:
   - symbol: sh.513010
     name: 恒生科技ETF易方达
-    shares: 218800
-    cost: 0.784
-    market_value: 146596.00
+    shares: 338800
+    cost: 0.728
+    market_value: 208023.20
     bucket: long_term
-
-  - symbol: sh.601869
-    name: 长飞光纤
-    shares: 100
-    cost: 372.982
-    bucket: strategy
 
   - symbol: sh.601138
     name: 工业富联
+    shares: 700
+    cost: 66.104
+    bucket: strategy
+
+  - symbol: sh.603678
+    name: 火炬电子
     shares: 500
-    cost: 63.625
+    cost: 62.208
     bucket: strategy
 
-  - symbol: sz.002185
-    name: 华天科技
-    shares: 2000
-    cost: 18.384
-    bucket: strategy
-
-  - symbol: sh.603296
-    name: 华勤技术
-    shares: 200
-    cost: 120.191
-    bucket: strategy
-
-  - symbol: sz.002241
-    name: 歌尔股份
-    shares: 200
-    cost: 9.845
+  - symbol: sz.002747
+    name: 埃斯顿
+    shares: 600
+    cost: 34.008
     bucket: strategy
